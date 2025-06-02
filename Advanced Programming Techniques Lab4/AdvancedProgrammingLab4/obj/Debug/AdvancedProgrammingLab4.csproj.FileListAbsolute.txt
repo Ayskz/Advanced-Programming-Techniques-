@@ -1,0 +1,35 @@
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.csproj.AssemblyReference.cache
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\MainWindow.g.cs
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\App.g.cs
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4_MarkupCompile.cache
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4_MarkupCompile.lref
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\bin\Debug\AdvancedProgrammingLab4.exe.config
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\bin\Debug\AdvancedProgrammingLab4.exe
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\bin\Debug\AdvancedProgrammingLab4.pdb
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\MainWindow.baml
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.g.resources
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.Properties.Resources.resources
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.csproj.GenerateResource.cache
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.csproj.CoreCompileInputs.cache
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.exe
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.pdb
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AddCourseWindow.g.cs
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AddCourseWindow.baml
+C:\Users\Aisul\source\repos\AdvancedProgrammingLab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.exe.config
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\bin\Debug\AdvancedProgrammingLab4.exe.config
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\bin\Debug\AdvancedProgrammingLab4.exe
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\bin\Debug\AdvancedProgrammingLab4.pdb
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.csproj.AssemblyReference.cache
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AddCourseWindow.g.cs
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\MainWindow.g.cs
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\App.g.cs
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4_MarkupCompile.cache
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4_MarkupCompile.lref
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AddCourseWindow.baml
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\MainWindow.baml
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.g.resources
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.Properties.Resources.resources
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.csproj.GenerateResource.cache
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.csproj.CoreCompileInputs.cache
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.exe
+C:\Users\Aisul\source\repos\Advanced Programming Techniques Lab4\AdvancedProgrammingLab4\obj\Debug\AdvancedProgrammingLab4.pdb
