@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Persons>
+  <Person>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <City>Toronto</City>
+    <Height>180</Height>
+    <Allergies>Peanuts</Allergies>
+  </Person>
+  <Person>
+    <FirstName>Jane</FirstName>
+    <LastName>Smith</LastName>
+    <City>Hamilton</City>
+    <Height>165</Height>
+    <Allergies>None</Allergies>
+  </Person>
+</Persons>
